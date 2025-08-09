@@ -1,4 +1,5 @@
- 🛠 Установка и настройка
+ ```
+🛠 Установка и настройка
 
  1. **Клонируйте репозиторий** или скачайте файлы
  2. **Замените изображения**:
@@ -18,7 +19,7 @@
  2. Социальные сети
  В блоке:
 
-```html
+html
 <div class="social-links">
     <a href="https://vk.com/your-profile" target="_blank" class="social-btn vk"><i class="fab fa-vk"></i> ВКонтакте</a>
     <a href="https://t.me/your-profile" target="_blank" class="social-btn tg"><i class="fab fa-telegram"></i> Telegram</a>
